@@ -1,0 +1,11 @@
+source "https://rubygems.org"
+
+gem "berkshelf"
+gem "kitchen-appbundle-updater"
+gem "kitchen-dokken"
+gem "kitchen-ec2"
+gem "kitchen-inspec"
+gem "kitchen-vagrant"
+gem "ridley"
+gem "test-kitchen"
+gem "vagrant-wrapper"

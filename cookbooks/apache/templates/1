@@ -1,0 +1,2 @@
+<h1>Hello Chef</h1>
+<p> My name is <%= node["hostname"]%> </p>
